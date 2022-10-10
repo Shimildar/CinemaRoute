@@ -1,0 +1,39 @@
+@font-face {
+  font-style: normal;
+  font-weight: 300;
+  font-family: "Roboto";
+
+  font-display: swap;
+  src: url("../../fonts/Roboto.woff2") format("woff2"),
+  url("../../fonts/Roboto.woff") format("woff");
+}
+
+@font-face {
+  font-style: medium;
+  font-weight: 500;
+  font-family: "Roboto";
+
+  font-display: swap;
+  src: url("../../fonts/Robotomedium.woff2") format("woff2"),
+  url("../../fonts/Robotomedium.woff") format("woff");
+}
+
+@font-face {
+  font-style: bold;
+  font-weight: 700;
+  font-family: "Roboto";
+
+  font-display: swap;
+  src: url("../../fonts/Robotobold.woff2") format("woff2"),
+  url("../../fonts/Robotobold.woff") format("woff");
+}
+
+@font-face {
+  font-style: bold;
+  font-weight: 700;
+  font-family: "Philosopher";
+
+  font-display: swap;
+  src: url("../../fonts/philosopherbold.woff2") format("woff2"),
+  url("../../fonts/philosopherbold.woff") format("woff");
+}
